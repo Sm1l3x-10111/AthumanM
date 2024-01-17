@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Mwarora Athuman</h1>
-<h3 align="center">A passionate Android developer from Kenya!</h3>
+<h1 align="center">Hi 👋, I'm Sm1l3x 10111</h1>
+<h3 align="center">A passionate Bug Hunter from Kenya!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwarora-athuman&label=Profile%20views&color=0e75b6&style=flat" alt="mwarora-athuman" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mwaroraathuman" target="blank"><img src="https://img.shields.io/twitter/follow/mwaroraathuman?logo=twitter&style=for-the-badge" alt="mwaroraathuman" /></a> </p>
 
-- 🌱 I’m currently learning **jetpack compose,native android development**
+- 🌱 I’m currently learning **Web Pentesting**
 
-- 💬 Ask me about **native android development**
+- 💬 Ask me about **CTFs|Bug Hunting|Web Pentesting**
 
-- 📫 How to reach me **mtindiabdullah@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
